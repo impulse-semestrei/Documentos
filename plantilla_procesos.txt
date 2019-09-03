@@ -1,0 +1,41 @@
+# Propósito
+* Aquí va el propósito del proceso
+
+# Criterios de entrada
+* Aquí van los criterios del proceso
+
+# Tabla de especificación
+<table>
+    <thead>
+        <tr>
+            <td>
+                <h3>Pasos</h3>
+            </td>
+            <td>
+                <h3>Criterio de paso</h3>
+            </td>
+            <td>
+                <h3>P.A</h3>
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                Número de paso
+            </td>
+            <td>
+                Contenido de criterios de paso
+                <ul>
+                    <li>Puedes incluir bullets points</li>
+                </ul>
+            </td>
+            <td>
+                Rol PA
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+# Resultado
+* Aquí va el resultado del proceso
