@@ -1,4 +1,4 @@
-# Propósito
+﻿# Propósito
 * Aquí va el propósito del proceso
 
 # Criterios de entrada
@@ -9,10 +9,10 @@
     <thead>
         <tr>
             <td>
-                <h3>Pasos</h3>
+                <h3>Fase</h3>
             </td>
             <td>
-                <h3>Criterio de paso</h3>
+                <h3>Pasos</h3>
             </td>
             <td>
                 <h3>P.A</h3>
@@ -22,7 +22,7 @@
     <tbody>
         <tr>
             <td>
-                Número de paso
+                1.- Número de paso
             </td>
             <td>
                 Contenido de criterios de paso
@@ -31,7 +31,7 @@
                 </ul>
             </td>
             <td>
-                Rol PA
+                Rol P.A (Si no hay poner Vacío)
             </td>
         </tr>
     </tbody>
